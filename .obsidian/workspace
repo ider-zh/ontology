@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "52f0bc293c70f51c",
+    "type": "split",
+    "children": [
+      {
+        "id": "67402fb8979d2c34",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02c29e06e77d4437",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2213f76fef3d5f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f95792dfb7b3acef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e179b9d662fc845",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6feaf9ee2f19afc0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cee93bbc23dc8384",
+    "type": "split",
+    "children": [
+      {
+        "id": "2136e4563b03233a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05c4f226d590e78a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eade3a448b1dbdb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f83f3fd033dff3d3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "67402fb8979d2c34",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-02-20 22.48.47.excalidraw.md",
+    "Computer Science/Distributed Storage/MiniIO.md",
+    "微博.md",
+    "test.md",
+    "diary/2022-02-19.md"
+  ]
+}
