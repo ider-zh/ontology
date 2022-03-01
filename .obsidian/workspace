@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Distributed Storage/Seaweedfs.md",
+            "file": "Book/进化论与生活.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "微博",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Distributed Storage/Seaweedfs.md",
+                "file": "Book/进化论与生活.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Distributed Storage/Seaweedfs.md"
+                "file": "Book/进化论与生活.md"
               }
             }
           },
@@ -115,11 +115,15 @@
   },
   "active": "67402fb8979d2c34",
   "lastOpenFiles": [
+    "Book/进化论与生活.md",
+    "Opinion/Censorship/罗翔：中国的根本大法不是什么宪法，而是领导的看法！.md",
+    "Pasted image 20220222010104.png",
+    "Pasted image 20220222010206.png",
+    "Graph Theory/Scale Free Network.md",
+    "Computer Science/Media/FFmpeg.md",
+    "Computer Science/Distributed Storage/Leofs.md",
+    "Computer Science/Distributed Storage/Ceph.md",
     "Computer Science/Distributed Storage/Seaweedfs.md",
-    "Computer Science/Distributed Storage/MiniIO.md",
-    "test.md",
-    "Excalidraw/Drawing 2022-02-20 22.48.47.excalidraw.md",
-    "微博.md",
-    "diary/2022-02-19.md"
+    "Computer Science/Distributed Storage/MiniIO.md"
   ]
 }
