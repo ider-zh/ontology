@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "67402fb8979d2c34",
+        "id": "3aa1e50b41cc1094",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "费曼学习法.md",
+            "file": "math/4.不定积分.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "微博",
+                "query": "保号性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226
   },
   "right": {
     "id": "cee93bbc23dc8384",
@@ -77,8 +77,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "费曼学习法.md",
-                "collapseAll": false,
+                "file": "math/4.不定积分.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "费曼学习法.md"
+                "file": "math/4.不定积分.md"
               }
             }
           },
@@ -111,19 +111,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269
   },
-  "active": "67402fb8979d2c34",
+  "active": "3aa1e50b41cc1094",
   "lastOpenFiles": [
-    "费曼学习法.md",
-    "网络计算演变.md",
-    "readme.md.md",
-    "Opinion/Censorship/罗翔：中国的根本大法不是什么宪法，而是领导的看法！.md",
-    "Graph Theory/Scale Free Network.md",
-    "file/Pasted image 20220222010206.png",
-    "file/Pasted image 20220222010104.png",
-    "Book/进化论与生活.md",
-    "Computer Science/Media/FFmpeg.md",
-    "Computer Science/Distributed Storage/Leofs.md"
+    "math/4.不定积分.md",
+    "math/导数/弧微分与曲率.md",
+    "math/导数/函数图像的描绘.md",
+    "math/导数/极值与最值.md",
+    "math/函数与极限/无穷小的比较.md",
+    "math/函数与极限/极限的运算法则.md",
+    "math/函数与极限/函数极限.md",
+    "math/函数与极限/极限存在准则.md",
+    "math/函数与极限/连续函数的运算及初等函数的连续性.md",
+    "math/函数与极限/数列极限.md"
   ]
 }

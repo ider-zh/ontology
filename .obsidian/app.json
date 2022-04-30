@@ -3,5 +3,6 @@
   "livePreview": true,
   "showLineNumber": true,
   "promptDelete": false,
-  "attachmentFolderPath": "file"
+  "attachmentFolderPath": "file",
+  "newFileLocation": "current"
 }
